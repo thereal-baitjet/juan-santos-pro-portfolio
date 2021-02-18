@@ -134,4 +134,12 @@ body {
     border-radius: 25px;
     box-shadow: 5px 5px;
   }
+  #horiseon {
+    Display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+  main {
+    text-align: center;
+  }
     }
