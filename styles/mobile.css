@@ -3,6 +3,7 @@ html {
     font-family: serif;
     font-size: 25px;
   }
+  /* applys back ground color to all via html tag*/
   ul {
     text-align: center;
     list-style-type: none;
@@ -33,13 +34,14 @@ li a:hover {
     margin-right: 25%;
     width: 50%;
   }
+  /*sets position of profile image*/
   .centeredAbout {
     margin-right: 10%;
     margin-left: 10%;
     color: white;
+    /* sets about me Paragraph to the center*/
   }
   h1 {
-    background-color: #111;
     margin-top: 280px;
     font-size: 50px;
     color: white;
@@ -71,6 +73,14 @@ li a:hover {
   #hide {
       display: none;
   }
+  /* hides sub work in smaller screens*/
   #work {
       margin-left: 13%;
+      /* moves iomage slightly to center in smaller screens*/
   }
+  h4 {
+    background-color: black;
+    color: white;
+    font-size: 70px;
+  }
+  /*gives background color to title of horiseon project*/
