@@ -1,4 +1,4 @@
-# juan-santos-pro-portfolio2
+# juan-santos-pro-portfolio
 
 ## Description
 Created a portfolio page with contacts resume work examples and a recent picture. Made a section for the first example in order to have it size larger. added titles to the projects of place holder until i have more projects. made live links to my contacs. the sub work sections disappears under on smaller phoes. In my about me, i put my first draft brand statement
