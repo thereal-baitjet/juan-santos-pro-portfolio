@@ -1,7 +1,7 @@
 # juan-santos-pro-portfolio
 
 ## Description
-Created a portfolio page with contacts resume work examples and a recent picture. Made a section for the first example in order to have it size larger. added titles to the projects of place holder until i have more projects. made live links to my contacs. the sub work sections disappears under on smaller phoes. In my about me, i put my first draft brand statement
+Created a portfolio page with contacts, work examples and a recent picture. Made a section for the first example in order to have it size larger. added titles to the projects of place holder until i have more projects. Made live links to my contacts. The sub work sections disappears under on smaller phones. In my about me, i put my first draft brand statement.
 
 ## Installation
 Open https://thereal-baitjet.github.io/juan-santos-pro-portfolio/ on you browser.
@@ -13,7 +13,7 @@ get to know me and get in to contact
 
 ## credits
 
-https://www.w3schools.com/w3css/tryw3css_templates_dark_portfolio.htm used for inspiration but did entirely from scrath
+https://www.w3schools.com/w3css/tryw3css_templates_dark_portfolio.htm used for inspiration but did from scrath.
 
 ## Liscense
 
@@ -41,8 +41,8 @@ SOFTWARE.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/juan-santos-8380b0186/)
 
-Link to Deploye page https://thereal-baitjet.github.io/juan-santos-pro-portfolio/
+[Link to Deploye page](https://thereal-baitjet.github.io/juan-santos-pro-portfolio/)
 
-link to repo https://github.com/thereal-baitjet/juan-santos-pro-portfolio
+[link to repo](https://github.com/thereal-baitjet/juan-santos-pro-portfolio)
 
 
