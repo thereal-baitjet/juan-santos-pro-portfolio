@@ -40,6 +40,7 @@ li a:hover {
   color: white;
 }
 h1 {
+  background-color: black;
   margin-top: 280px;
   font-size: 50px;
   color: white;
@@ -67,6 +68,10 @@ h2 {
   margin-top: 300px;
   margin-left:25%;
   margin-right: 25%;
+}
+#subWork{
+  display: flex;
+  flex-direction: row;
 }
 .comingsoon img:hover {
   transform: scale(1.5);

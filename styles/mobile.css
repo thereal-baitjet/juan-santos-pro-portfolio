@@ -1,0 +1,76 @@
+html {
+    background-color: black;
+    font-family: serif;
+    font-size: 25px;
+  }
+  ul {
+    text-align: center;
+    list-style-type: none;
+    overflow: visible;
+    background-color: #333;
+  }
+  
+  li {
+    float: inline-end;
+    
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none; 
+  }
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+  }
+  .centeredPic {
+    display: block;
+    margin-left: 25%;
+    margin-right: 25%;
+    width: 50%;
+  }
+  .centeredAbout {
+    margin-right: 10%;
+    margin-left: 10%;
+    color: white;
+  }
+  h1 {
+    background-color: #111;
+    margin-top: 280px;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+  }
+  p {
+    color: white;
+    font-size: 32px;
+    text-align: center;
+  }
+  h3{
+    font-size: 30px;
+    text-align: center;
+  }
+  h2 {
+    font-size: large;
+    text-align: center;
+    color: white;
+  }
+  .mainWork {
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 1 0;
+    margin-bottom: 300px;
+    margin-top: 300px;
+    margin-left:25%;
+    margin-right: 25%;
+  }
+  #hide {
+      display: none;
+  }
+  #work {
+      margin-left: 13%;
+  }
