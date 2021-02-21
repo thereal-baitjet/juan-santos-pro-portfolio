@@ -8,6 +8,7 @@ Open https://thereal-baitjet.github.io/juan-santos-pro-portfolio/ on you browser
 
 ## usage 
 get to know me and get in to contact
+![Screen Shot](https://github.com/thereal-baitjet/juan-santos-pro-portfolio/blob/main/2021-02-20-20-34-thereal-baitjet.github.io.png)
 
 
 ## credits
